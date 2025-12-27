@@ -1,102 +1,268 @@
-# Hi 👋, I'm Saurav Majumdar
-
+<!-- Animated Header -->
 <div align="center">
-  <h3>Full Stack Developer | Cloud Enthusiast | System Design Architect</h3>
-  <p>Passionate about building scalable, enterprise-grade applications with modern technologies</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=200&section=header&text=Saurav%20Majumdar&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=35&desc=Architecting%20distributed%20systems%20that%20scale&descSize=18&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently working on [**Evira**](https://github.com/souravdev-eng/evira-ecom) - A cloud-native e-commerce microservices platform
-- 🌱 Learning **Golang, System Design, Advanced Cloud Computing**
-- 💡 Focused on **Microservices Architecture**, **Event-Driven Systems**, and **Cloud-Native Technologies**
-- 💬 Ask me about **Full Stack Development**, **Microservices**, **React**, **Node.js**
-- 📫 Reach me at **souravmajumdar.dev@gmail.com**
-- 🌍 Based in **India**
-
----
-
-## 🛠️ Technology Stack
-
+<!-- Typing SVG -->
 <div align="center">
-
-### Frontend Development
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40">
-
-### Backend Development
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="GraphQL" width="40" height="40">
-
-### Database & Caching
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40">
-
-### Cloud & DevOps
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="Elasticsearch" width="40" height="40">
-
-### Message Queues & Communication
-<img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40">
-
-### Mobile Development
-<img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"> <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" alt="Realm" width="40" height="40">
-
-### Tools & Testing
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="Jest" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40">
-
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=%F0%9F%8F%97%EF%B8%8F+Full+Stack+Developer+%7C+Cloud+Architect;%F0%9F%94%A7+Building+microservices+at+enterprise+scale;%E2%9A%A1+From+monoliths+to+distributed+systems" alt="Typing SVG" />
+  </a>
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats
-
+<!-- Quick Links -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=souravdev-eng&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="180">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravdev-eng&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="180"> -->
-</div>
-
----
-
-## 🎯 Current Focus
-
-- 🏗️ **Microservices Architecture** - Building scalable, distributed systems
-- ☁️ **Cloud-Native Development** - Leveraging Kubernetes, Docker, and cloud platforms
-- 🔄 **Event-Driven Architecture** - Implementing robust messaging patterns
-- 📈 **System Design** - Designing high-performance, fault-tolerant systems
-- 🚀 **Performance Optimization** - Sub-100ms response times with intelligent caching
-
----
-
-## 🌟 Featured Project
-
-### [Evira E-Commerce Platform](https://github.com/souravdev-eng/evira-ecom)
-**Enterprise-grade microservices e-commerce platform**
-
-- 🏪 **6 Microservices** with different tech stacks optimized for each domain
-- ⚡ **High Performance** - Sub-100ms API response times, 90%+ cache hit ratio
-- 📈 **Scalable** - Supports 10M+ concurrent users with auto-scaling
-- 🔄 **Event-Driven** - RabbitMQ for reliable inter-service communication
-- 🏗️ **Cloud-Native** - Full Kubernetes orchestration with production-ready configs
-- 🎨 **Micro Frontend** - Module Federation architecture for scalable UI
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/majumdarsourav/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/majumdarsourav/">
+    <img src="https://img.shields.io/badge/-%40majumdarsourav-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:souravmajumdar.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-souravmajumdar.dev@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/souravdev-eng">
+    <img src="https://img.shields.io/badge/-souravdev--eng-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=souravdev-eng&style=flat&color=30363d&label=visitors" alt="Profile Views"/>
+</div>
+
+<br/>
+
+<!-- About Section with Terminal Style -->
+```js
+// about_me.js
+
+const saurav = {
+    pronouns: "he" | "him",
+    location: "India 🇮🇳",
+    currentFocus: "Building Evira - A cloud-native e-commerce platform",
+    
+    expertise: {
+        architecture: ["Microservices", "Event-Driven", "Domain-Driven Design"],
+        frontend: ["React", "TypeScript", "Module Federation"],
+        backend: ["Node.js", "Go", "GraphQL", "REST"],
+        databases: ["PostgreSQL", "MongoDB", "Redis"],
+        cloud: ["AWS", "Kubernetes", "Docker", "Terraform"],
+        messaging: ["RabbitMQ", "Apache Kafka"]
+    },
+    
+    currentlyLearning: ["Golang", "System Design Patterns", "Cloud Architecture"],
+    askMeAbout: ["Distributed Systems", "Microservices", "React", "Node.js"],
+    
+    funFact: "I believe every monolith deserves a second chance as microservices 🚀"
+};
+```
+
+<br/>
+
+<!-- Tech Stack with Custom Badges -->
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px"/>
+  &nbsp;Technology Arsenal
+</h2>
+
+<div align="center">
+
+<!-- Architecture & Design -->
+<details open>
+<summary><b>🏗️ Architecture & Patterns</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Microservices-FF6B6B?style=for-the-badge&logoColor=white" alt="Microservices"/>
+<img src="https://img.shields.io/badge/Event--Driven-4ECDC4?style=for-the-badge&logoColor=white" alt="Event-Driven"/>
+<img src="https://img.shields.io/badge/Domain--Driven_Design-45B7D1?style=for-the-badge&logoColor=white" alt="DDD"/>
+<img src="https://img.shields.io/badge/CQRS-96CEB4?style=for-the-badge&logoColor=white" alt="CQRS"/>
+<img src="https://img.shields.io/badge/API_Gateway-FFEAA7?style=for-the-badge&logoColor=black" alt="API Gateway"/>
+</details>
+
+<!-- Frontend -->
+<details open>
+<summary><b>🎨 Frontend</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</details>
+
+<!-- Backend -->
+<details open>
+<summary><b>⚙️ Backend</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+<img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white" alt="REST"/>
+</details>
+
+<!-- Database -->
+<details open>
+<summary><b>🗄️ Data Layer</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
+<img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" alt="Elasticsearch"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</details>
+
+<!-- Cloud & DevOps -->
+<details open>
+<summary><b>☁️ Cloud & DevOps</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions"/>
+</details>
+
+<!-- Messaging -->
+<details open>
+<summary><b>📨 Messaging & Queues</b></summary>
+<br/>
+<img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" alt="Kafka"/>
+<img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logo=google&logoColor=white" alt="gRPC"/>
+</details>
+
+</div>
+
+<br/>
+
+<!-- Featured Project -->
+<h2 align="center">🌟 Featured Project</h2>
+
+<div align="center">
+  <a href="https://github.com/souravdev-eng/evira-ecom">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=souravdev-eng&repo=evira-ecom&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="Evira E-Commerce"/>
   </a>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=souravdev-eng&style=flat-square&color=blue" alt="Profile Views"/>
+<table>
+<tr>
+<td width="50%">
+
+### 🏪 Evira E-Commerce Platform
+**Enterprise-grade microservices architecture**
+
+A production-ready e-commerce platform demonstrating advanced distributed systems patterns.
+
+</td>
+<td width="50%">
+
+```
+┌─────────────────────────────────────┐
+│          API Gateway (Kong)         │
+├─────────────────────────────────────┤
+│  ┌─────┐ ┌─────┐ ┌─────┐ ┌─────┐   │
+│  │User │ │Order│ │Cart │ │Prod │   │
+│  │Svc  │ │Svc  │ │Svc  │ │Svc  │   │
+│  └──┬──┘ └──┬──┘ └──┬──┘ └──┬──┘   │
+│     │       │       │       │       │
+│  ┌──┴───────┴───────┴───────┴──┐   │
+│  │       RabbitMQ / Kafka       │   │
+│  └──────────────────────────────┘   │
+│  ┌────────┐ ┌────────┐ ┌────────┐   │
+│  │Postgres│ │MongoDB │ │ Redis  │   │
+│  └────────┘ └────────┘ └────────┘   │
+└─────────────────────────────────────┘
+```
+
+</td>
+</tr>
+</table>
 </div>
 
 <div align="center">
-  <i>⭐ From [souravdev-eng](https://github.com/souravdev-eng) - Building the future, one microservice at a time!</i>
+
+| Metric | Value |
+|--------|-------|
+| 🏗️ **Microservices** | 6 independent services |
+| ⚡ **Response Time** | < 100ms p95 latency |
+| 📈 **Scalability** | 10M+ concurrent users |
+| 🔄 **Cache Hit Ratio** | 90%+ with Redis |
+| 🐳 **Containerized** | Full K8s orchestration |
+
 </div>
+
+<br/>
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=souravdev-eng&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&ring_color=58a6ff" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=souravdev-eng&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=souravdev-eng&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- Current Focus -->
+<h2 align="center">🎯 What I'm Working On</h2>
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/fluency/96/000000/microservices.png" width="48"/>
+<br/><b>Microservices</b>
+<br/><sub>Building distributed systems with polyglot persistence</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/cloud-development.png" width="48"/>
+<br/><b>Cloud Native</b>
+<br/><sub>Kubernetes, service mesh, and infrastructure as code</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/workflow.png" width="48"/>
+<br/><b>Event Sourcing</b>
+<br/><sub>CQRS patterns and event-driven architectures</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.icons8.com/color/96/000000/golang.png" width="48"/>
+<br/><b>Go</b>
+<br/><sub>High-performance backend services</sub>
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- Quote -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" alt="Quote"/>
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:30363d&height=120&section=footer" width="100%"/>
+</div>
+
+<!-- Hidden Easter Egg -->
+<!--
+   ____                              __  __       _                     _            
+  / ___|  __ _ _   _ _ __ __ ___   _|  \/  | __ _(_)_   _ _ __ ___   __| | __ _ _ __ 
+  \___ \ / _` | | | | '__/ _` \ \ / / |\/| |/ _` | | | | | '_ ` _ \ / _` |/ _` | '__|
+   ___) | (_| | |_| | | | (_| |\ V /| |  | | (_| | | |_| | | | | | | (_| | (_| | |   
+  |____/ \__,_|\__,_|_|  \__,_| \_/ |_|  |_|\__,_| |\__,_|_| |_| |_|\__,_|\__,_|_|   
+                                               |_/                                   
+  
+  Thanks for checking out my profile! 🙏
+  Let's connect and build something amazing together.
+-->
+
