@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+  <title id="title">Saurav Majumdar — Software Engineer</title>
+  <desc id="desc">Minimal dark editorial banner with a subtle network topology illustration, highlighting backend engineering and distributed systems.</desc>
+  <defs>
+    <linearGradient id="base" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.56" stop-color="#101b2d"/>
+      <stop offset="1" stop-color="#0c1523"/>
+    </linearGradient>
+    <radialGradient id="halo" cx="82%" cy="42%" r="48%">
+      <stop offset="0" stop-color="#1e5a8f" stop-opacity=".37"/>
+      <stop offset=".55" stop-color="#153551" stop-opacity=".14"/>
+      <stop offset="1" stop-color="#0d1624" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#76b9ff"/>
+      <stop offset="1" stop-color="#74ead8"/>
+    </linearGradient>
+    <pattern id="grid" width="35" height="35" patternUnits="userSpaceOnUse">
+      <path d="M35 0H0V35" fill="none" stroke="#8fa8c6" stroke-opacity=".13" stroke-width=".7"/>
+    </pattern>
+    <clipPath id="rightClip"><rect x="820" y="0" width="460" height="360"/></clipPath>
+  </defs>
+  <rect width="1280" height="360" rx="18" fill="url(#base)"/>
+  <rect width="1280" height="360" rx="18" fill="url(#halo)"/>
+  <g clip-path="url(#rightClip)">
+    <rect x="795" y="0" width="485" height="360" fill="url(#grid)"/>
+    <circle cx="1087" cy="177" r="145" stroke="#78a8d0" stroke-opacity=".15" stroke-width="1.2" fill="none"/>
+    <circle cx="1087" cy="177" r="104" stroke="#78a8d0" stroke-opacity=".19" stroke-width="1.2" fill="none" stroke-dasharray="3 9"/>
+    <circle cx="1087" cy="177" r="63" stroke="#7cc9e9" stroke-opacity=".24" stroke-width="1.2" fill="none"/>
+    <path d="M943 177H1235M1087 31V323" stroke="#a0c9e4" stroke-opacity=".10" stroke-width="1"/>
+    <path d="M992 98L1087 177L1194 104M1087 177L1176 257L1004 275L992 98M1194 104L1176 257" fill="none" stroke="#6ea6cb" stroke-width="1.7" stroke-opacity=".44"/>
+    <path d="M992 98L1004 275M1194 104L1004 275" fill="none" stroke="#86ddcf" stroke-width="1" stroke-opacity=".18" stroke-dasharray="4 7"/>
+    <circle cx="1087" cy="177" r="18" fill="#132b42" stroke="#7cddcf" stroke-opacity=".7" stroke-width="1.6"/>
+    <circle cx="1087" cy="177" r="5" fill="#8ae7d9"/>
+    <circle cx="992" cy="98" r="8" fill="#1c405c" stroke="#86c6f8" stroke-width="2"/>
+    <circle cx="1194" cy="104" r="8" fill="#1c405c" stroke="#86c6f8" stroke-width="2"/>
+    <circle cx="1176" cy="257" r="8" fill="#1c405c" stroke="#86c6f8" stroke-width="2"/>
+    <circle cx="1004" cy="275" r="8" fill="#1c405c" stroke="#86c6f8" stroke-width="2"/>
+    <circle cx="946" cy="177" r="3" fill="#85e5d5"/>
+    <circle cx="1230" cy="177" r="3" fill="#85e5d5"/>
+    <circle cx="1087" cy="32" r="3" fill="#85e5d5"/>
+    <circle cx="1087" cy="322" r="3" fill="#85e5d5"/>
+    <path d="M854 60H914M854 65H892" stroke="#9ec4dc" stroke-opacity=".16" stroke-width="2"/>
+    <path d="M1230 300H1260M1240 305H1260" stroke="#9ec4dc" stroke-opacity=".16" stroke-width="2"/>
+  </g>
+  <rect x="66" y="53" width="24" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="104" y="59" fill="#9bb1c7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="13" font-weight="650" letter-spacing="3">SOFTWARE ENGINEER</text>
+  <text x="66" y="159" fill="#f6f9fc" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="63" font-weight="730" letter-spacing="-2.7">Saurav Majumdar<tspan fill="#7ee3d7">.</tspan></text>
+  <text x="69" y="202" fill="#b4c5d7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="21" font-weight="400" letter-spacing=".1">Building useful software. Thinking in systems.</text>
+  <path d="M68 269H786" stroke="#aec8dd" stroke-opacity=".19" stroke-width="1"/>
+  <text x="69" y="303" fill="#7fc5f7" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="13" font-weight="570" letter-spacing="1.5">BACKEND</text>
+  <circle cx="169" cy="298" r="2" fill="#6c839c"/>
+  <text x="186" y="303" fill="#a5b9cb" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="13" font-weight="570" letter-spacing="1.5">DISTRIBUTED SYSTEMS</text>
+  <circle cx="402" cy="298" r="2" fill="#6c839c"/>
+  <text x="419" y="303" fill="#a5b9cb" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Arial,sans-serif" font-size="13" font-weight="570" letter-spacing="1.5">CLOUD &amp; AI</text>
+  <rect x=".5" y=".5" width="1279" height="359" rx="17.5" stroke="#57718e" stroke-opacity=".2" fill="none"/>
+</svg>
