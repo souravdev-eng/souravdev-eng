@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="./assets/profile-banner.svg" width="100%" alt="Saurav Majumdar — Software Engineer. Building useful software. Thinking in systems." />
+  <img src="./profile-banner.svg" width="100%" alt="Saurav Majumdar — Software Engineer. Building useful software. Thinking in systems." />
 
   <br />
 
